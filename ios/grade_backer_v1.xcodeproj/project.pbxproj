@@ -22,7 +22,6 @@
 		C7A2926A26D5B3EB008F7207 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A2926926D5B3EB008F7207 /* File.swift */; };
 		C7C9142A316060F740D996F0 /* libPods-grade_backer_v1-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C4F7CD207C1E5773C0C417C4 /* libPods-grade_backer_v1-tvOS.a */; };
 		C7E1508126D9260A00FEB3AB /* summary.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7E1508026D9260A00FEB3AB /* summary.mp3 */; };
-		C7E1508326D92BAE00FEB3AB /* test.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7E1508226D92BAE00FEB3AB /* test.mp3 */; };
 		D7E6B3C325BB978900F68640 /* Configuration.storekit in Resources */ = {isa = PBXBuildFile; fileRef = D7E6B3C225BB978900F68640 /* Configuration.storekit */; };
 /* End PBXBuildFile section */
 
@@ -372,7 +371,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				C7E1508326D92BAE00FEB3AB /* test.mp3 in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 				D7E6B3C325BB978900F68640 /* Configuration.storekit in Resources */,
 				C7E1508126D9260A00FEB3AB /* summary.mp3 in Resources */,
