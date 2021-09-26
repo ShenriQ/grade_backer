@@ -131,7 +131,7 @@ android {
 
     defaultConfig {
         multiDexEnabled true
-        applicationId "com.grade_backer_v01"
+        applicationId "com.grade_backer_v1"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 5

@@ -1,4 +1,4 @@
-package com.grade_backer_v01;
+package com.grade_backer_v1;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "grade_backer_v01";
+    return "grade_backer_v1";
   }
 }
