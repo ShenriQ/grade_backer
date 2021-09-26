@@ -4,7 +4,7 @@
  * <p>This source code is licensed under the MIT license found in the LICENSE file in the root
  * directory of this source tree.
  */
-package com.grade_backer_v01;
+package com.grade_backer_v1;
 
 import android.content.Context;
 import com.facebook.flipper.android.AndroidFlipperClient;
