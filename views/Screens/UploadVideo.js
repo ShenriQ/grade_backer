@@ -264,6 +264,7 @@ const UploadVideo = (props) => {
                                 style={{ fontSize: 32, color: '#fff' }}
                             />
                         </TouchableOpacity>
+                        <Text style={{marginTop: 12, fontSize: 13, fontWeight: '500', color: '#222'}}>{statusRef.current == 'recording' ? "Stop" : "Start"}</Text>
                     </View>
 
                     {
